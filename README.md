@@ -24,7 +24,7 @@ CalMatters is providing the data as received from each school for download here 
         <td>Cal Poly San Luis Obispo</td>
         <td><code>calpolyslo.csv</code></td>
         <td>July 2024</td>
-        <td>Told CalMatters verbally about these 8 transactions and said they did not previously require reporting</td>
+        <td>Cal Poly San Luis Obispo verbally told CalMatters about these 8 transactions. The school said it did not do a thorough job requiring students to report their name, image and likeness deals.</td>
     </tr>
     <tr>
         <td>Cal State Bakersfield</td>
@@ -33,31 +33,31 @@ CalMatters is providing the data as received from each school for download here 
             <code>csubakersfield2.csv</code>
         </td>
         <td>2023, 2024</td>
-        <td>All deals are from 2023-24 and fall 2024. CSUB provided Influxer and Athletes Thread data in January 2025. Influxer data is by athlete (<code>csubakersfield1.csv</code>). CSUB began using Athlete's Thread (<code>csubakersfield2.csv</code>) in March 2024.</td>
+        <td>Cal State Bakersfield data includes all reported deals from 2023-24 and fall 2024, as reported in Influxer and Athlete's Thread. Influxer data is by athlete (<code>csubakersfield1.csv</code>) and was provided on Jan. 19, 2025. Athlete's Thread data shows the sum of all reported transactions per team, per month (<code>csubakersfield2.csv</code>). The school began using Athlete's Thread in March 2024 and provided its data to CalMatters on Jan. 17, 2025.</td>
     </tr>
     <tr>
         <td>Cal State Fullerton</td>
         <td><code>calstatefullerton.csv</code></td>
         <td>2021-22, 2022-23, 2023-24, 2024-25</td>
-        <td>Fullerton provided data on Sept. 18, 2024 with the sum of all deals made across each team</td>
+        <td>Cal State Fullerton's data shows the sum of all reported deals for each team, per year, from 2021 through the 2024-25 academic year. The school provided its data on Sept. 18, 2024.</td>
     </tr>
     <tr>
         <td>Cal State Northridge</td>
         <td></td>
         <td></td>
-        <td>Said they have no records</td>
+        <td>Cal State Northridge said it has no records of name, image and likeness deals.</td>
     </tr>
     <tr>
         <td>CSU Long Beach</td>
         <td><code>csulongbeach.csv</code></td>
         <td>September 2021 to August 2024</td>
-        <td>CSULB provided data on Sept. 13, 2024. Told CalMatters that students who received money from collectives did not report the deals</td>
+        <td>Cal State Long Beach provided transaction-level data on Sept. 13, 2024 for name, image and likeness deals reported to the university beginning in 2021. The school told CalMatters that students who received money from collectives did not report the deals.</td>
     </tr>
     <tr>
         <td>Fresno State</td>
         <td><code>fresnostate1.csv</code>, <code>fresnostate2.csv</code></td>
         <td>2021-22, 2022-23, 2023-24</td>
-        <td>Fresno State initially said it did not have records. After CalMatters appealed, Fresno State provided its NIL records on Nov. 26, 2024. Deals are from Sept. 1 to June 30 each year. The university did not respond to multiple requests to clarify ambiguities in the data. <code>fresnostate1.csv</code> is the data and <code>fresnostate2.csv</code> is the sport acronym key provided by the school</td>
+        <td>Fresno State provided transaction-level data for all reported name, image and likeness deals from Sept 2021 through June 30, 2024. The university sent its records on Nov. 26, 2024. The school did not respond to multiple requests to clarify ambiguities in the data, such as the number of months some athletes were paid for deals that specified a certain dollar amount "per month." There are two files: <code>fresnostate1.csv</code> is the data and <code>fresnostate2.csv</code> is an acronym key provided by the school.</td>
     </tr>
     <tr>
         <td>Sacramento State</td>
@@ -68,7 +68,7 @@ CalMatters is providing the data as received from each school for download here 
             <code>sacramentostate4.csv</code>
         </td>
         <td>2021-22, 2022-23, 2023-24, Fall 2024</td>
-        <td>After multiple requests, Sacramento State provided data from 2021 through Fall 2024 on Jan. 13, 2025. However, data from 2021-22 does not include information about the NIL deal recipient's sport</td>
+        <td>Sacramento State provided its records on Jan. 13, 2025, which included transaction-level name, image and likeness data from 2021 through Fall 2024. However, data from 2021-22 does not include information about the name, image and likeness recipient's sport.</td>
     </tr>
     <tr>
         <td>San Diego State</td>
@@ -77,25 +77,25 @@ CalMatters is providing the data as received from each school for download here 
             <code>sandiegostate2.csv</code>
         </td>
         <td>2021-22, 2022-23, 2023-24, 2024 to January 2025</td>
-        <td>Twice, beginning in September, San Diego State said it had no NIL records. After CalMatters pointed out that SDSU has a collective and an NIL marketplace, SDSU sent over its records in January 2025. <code>sandiegostate1.csv</code> is the data, <code>sandiegostate2.csv</code> is sport acronym key provided by the school</td>
+        <td>San Diego State sent over its records in January 10, 2025, which included the sum of all reported deals for each sports team in the 2021-22, 2022-23, 2023-24, and 2024-25 academic years. The data is <code>sandiegostate1.csv</code> and <code>sandiegostate2.csv</code> is an acronym key provided by the school.</td>
     </tr>
     <tr>
         <td>San Jose State</td>
         <td></td>
         <td></td>
-        <td>Said they have no records</td>
+        <td>San Jose State said it has no records of name, image and likeness deals.</td>
     </tr>
     <tr>
         <td>UC Berkeley</td>
         <td><code>ucberkeley.csv</code></td>
         <td>July 2021 to February 2025</td>
-        <td>Berkeley responded with records on Dec. 10, 2024. CalMatters submitted a request for the most recent NIL data from the 2024-25 academic year up to January 28, 2025. Berkeley responded with this additional data on Feb. 27, 2025. CalMatters removed vendor emails from the data</td>
+        <td>UC Berkeley shared its records on Dec. 10, 2024, which included all reported name, image and likenenss transactions from 2021 through spring 2024. CalMatters later submitted a second request for more recent data. The university complied with that second request and included data from March 1, 2024 through Feb. 27, 2025. CalMatters is making all data from both requests available. CalMatters removed vendor emails.</td>
     </tr>
     <tr>
         <td>UC Davis</td>
         <td><code>ucdavis.csv</code></td>
         <td>2021-22, 2022-23, 2023-24, 2024-25</td>
-        <td>Davis responded to the public records request in October and then revised its data on Nov. 20, 2024. CalMatters is publishing the data it received on Nov. 20, 2024</td>
+        <td>UC Davis shared records on Nov. 20, 2024, which included transaction-level information of all reported deals from 2021 through the start of the 2024-25 academic year.</td>
     </tr>
     <tr>
         <td>UC Irvine</td>
@@ -104,31 +104,34 @@ CalMatters is providing the data as received from each school for download here 
             <code>ucirvine2.csv</code>
         </td>
         <td>2021-22, 2022-23, 2023-24</td>
-        <td>UC Irvine shared NIL records on Oct. 10, 2024. <code>ucirvine1.csv</code> is the summary provided for all sports. <code>ucirvine2.csv</code> is the portion of that money from the Be True For Irvine collective</td>
+        <td>UC Irvine shared records on Oct. 10, 2024, which included the sum of all reported name, image and likeness deals made each year for each sport since 2021. The data is <code>ucirvine1.csv</code> and <code>ucirvine2.csv</code> is the portion of that money which came from the Be True For Irvine collective.</td>
     </tr>
     <tr>
         <td>UC Riverside</td>
         <td><code>ucriverside.csv</code></td>
         <td>2021-22, 2022-23, 2023-24, 2024-25</td>
-        <td>UCR responded with records on Oct. 2, 2024</td>
+        <td>UC Riverside provided transaction-level data on Oct. 2, 2024 for reported name, image and likeness deals beginning in 2021.</td>
     </tr>
     <tr>
         <td>UC San Diego</td>
-        <td><code>ucsandiego.csv</code></td>
+        <td>
+            <code>ucsandiego1.csv</code>
+            <code>ucsandiego2.csv</code>
+        </td>
         <td>2021-22, 2022-23, 2023-24, 2024-25</td>
-        <td>UC San Diego initially said it had no NIL records available. After CalMatters appealed, the university responded on Jan. 9, 2025 with records. 2024-25 is the first year that UC San Diego is in Division 1 athletics. </td>
+        <td>UC San Diego shared data Jan. 9, 2024, which included the sum of all reported name, image and likeness deals made each year for each sport since 2021. 2024-25 is the first year that UC San Diego is in Division 1 athletics. The data is <code>ucsandiego1.csv</code> and <code>ucsandiego2.csv</code> is an acronym key provided by the school.</td>
     </tr>
     <tr>
         <td>UC Santa Barbara</td>
         <td><code>ucsantabarbara.csv</code></td>
         <td>July 2021 to September 2024</td>
-        <td>UCSB responded with records on Dec. 18, 2024</td>
+        <td>UC Santa Barbara provided transaction-level data on Dec. 18, 2024, which included all reported deals since 2021. </td>
     </tr>
     <tr>
         <td>UCLA</td>
         <td><code>ucla.csv</code></td>
         <td>September 2021 to May 2024</td>
-        <td>UCLA responded with records on Oct. 29, 2024. CalMatters removed vendor emails from the data</td>
+        <td>UCLA provided transaction-level data on Oct. 29, 2024, which included all reported deals since 2021. CalMatters removed vendor emails from the data.</td>
     </tr>
   </tbody>
 </table>
