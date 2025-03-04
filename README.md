@@ -4,7 +4,7 @@ CalMatters reached out to every public Division 1 university in California reque
 
 All 16 universities responded to CalMatters’ inquiry, though they did not all provide the same degree of transparency. Some provided data at the payment level, including the date, amount and vendor who gave the money to a student athlete. Others provided the total amount per year of how much student athletes from each sports team received. Schools also differ in how they ask student athletes to report deals, and the amount of detail reported ranges widely. Schools often removed any information that could identify an individual student athlete, though a few recipient names were evident in payment descriptions. The exact date range of data reported varies by school. Most provided data by academic year. Cal State Northridge and San Jose State said they had no records.
 
-CalMatters worked to standardize the name, image and likeness data we received for analysis, but ambiguities remain. Dozens of deals indicated compensation in product rather than or in addition to cash, the value of which was often not specified. Some vendors promised certain compensation per social media post or other activity, but it’s not clear how much the athlete actually received. Some indicated monthly compensation but not how many months the deal lasted. In [TK story](), CalMatters is showing the minimum amount of compensation student athletes reported receiving.
+CalMatters worked to standardize the name, image and likeness data we received for analysis, but ambiguities remain. Dozens of deals indicated compensation in product rather than or in addition to cash, the value of which was often not specified. Some vendors promised certain compensation per social media post or other activity, but it’s not clear how much the athlete actually received. Some indicated monthly compensation but not how many months the deal lasted.
 
 CalMatters is providing the data as received from each school for download here with minor formatting changes and personal contact information removed.
 
@@ -136,9 +136,9 @@ CalMatters is providing the data as received from each school for download here 
   </tbody>
 </table>
 
-## Examples of Use
+## Examples of Use  
 
-This dataset powers this story: “[TK](TK)” by Adam Echelman (published TK).
+
 
 ## Data Use
 
