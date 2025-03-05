@@ -1,10 +1,10 @@
 # Data on name, image and likeness compensation at California public Division 1 schools
 
-CalMatters reached out to every public Division 1 university in California requesting data regarding how much money each of its student athletes have made from 2021 through 2024. State law requires all student athletes to report any compensation they receive as a result of their name, image and likeness (NIL), and public universities are required to disclose certain kinds of data upon request.
+CalMatters reached out to every public Division 1 university in California requesting data regarding how much money each of its student athletes have made since 2021. State law requires all student athletes to report to their schools any compensation they receive as a result of their name, image and likeness (NIL), and public universities are required to disclose certain kinds of data upon request.
 
-All 16 universities responded to CalMatters’ inquiry, though they did not all provide the same degree of transparency. Some provided data at the payment level, including the date, amount and vendor who gave the money to a student athlete. Others provided the total amount per year of how much student athletes from each sports team received. Schools also differ in how they ask student athletes to report deals, and the amount of detail reported ranges widely. Schools often removed any information that could identify an individual student athlete, though a few recipient names were evident in payment descriptions. The exact date range of data reported varies by school. Most provided data by academic year. Cal State Northridge and San Jose State said they had no records.
+All 16 universities responded to CalMatters’ inquiry, though they did not all provide the same degree of transparency. Some provided data at the payment level, including the date, amount and vendor who gave the money to a student athlete. Others provided the total amount per year of how much student athletes from each sports team received. Schools also differ in how they ask student athletes to report deals, and the amount of detail reported ranges widely. Schools often removed any information that could identify an individual student athlete, though a few recipient names were evident in payment descriptions. The exact date range of data reported varies by school. Most provided data by academic year. Cal State Northridge and San Jose State said they had no records of any deals.
 
-CalMatters worked to standardize the name, image and likeness data we received for analysis, but ambiguities remain. Dozens of deals indicated compensation in product rather than or in addition to cash, the value of which was often not specified. Some vendors promised certain compensation per social media post or other activity, but it’s not clear how much the athlete actually received. Some indicated monthly compensation but not how many months the deal lasted.
+CalMatters worked to standardize the name, image and likeness data we received for analysis, but ambiguities remain. Dozens of deals indicated compensation in product rather than or in addition to cash, the value of which was often not specified. Some vendors promised certain compensation per social media post or other activity, but it’s not clear how much the athlete actually received. Some indicated monthly compensation but not how many months the deal lasted. In the [story based on this data](https://calmatters.org/education/higher-education/2025/03/nil-deals-california-college-athletes-sponsorships/), CalMatters is showing the minimum amount of compensation student athletes reported receiving.
 
 CalMatters is providing the data as received from each school for download here with minor formatting changes and personal contact information removed.
 
@@ -137,7 +137,7 @@ CalMatters is providing the data as received from each school for download here 
 </table>
 
 ## Examples of Use  
-
+This dataset powers the story: “[College athletes can now make millions off sponsorship deals. Here’s the first look at California’s numbers](https://calmatters.org/education/higher-education/2025/03/nil-deals-california-college-athletes-sponsorships/)” by Adam Echelman and Erica Yee (published March 6, 2025).
 
 
 ## Data Use
